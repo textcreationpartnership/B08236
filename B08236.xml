@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Briefe relation of certain speciall and most materiall passages, and speeches in the Starre-Chamber, occasioned and delivered Iune the 14th. 1637. at the censure of those three worthy gentlemen, Dr. Bastwicke, Mr. Burton and Mr. Prynne, as it hath beene truely and faithfully gathered from their owne mouthes by one present at the sayd censure..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08236</idno>
+            <idno type="OCLC"> 82474491</idno>
+            <idno type="STC">STC 1569</idno>
+            <idno type="STC">ESTC S126020</idno>
+            <idno type="EEBO-CITATION">82474491</idno>
+            <idno type="OCLC">ocm 82474491</idno>
+            <idno type="VID">185117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2248:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Briefe relation of certain speciall and most materiall passages, and speeches in the Starre-Chamber, occasioned and delivered Iune the 14th. 1637. at the censure of those three worthy gentlemen, Dr. Bastwicke, Mr. Burton and Mr. Prynne, as it hath beene truely and faithfully gathered from their owne mouthes by one present at the sayd censure..</title>
+               </titleStmt>
+               <extent>30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>J.F. Stam],</publisher>
+                  <pubPlace>[Amsterdam :</pubPlace>
+                  <date>Printed in the Yeere 1637..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Name and place of publisher from STC (2nd ed.).</note>
+                  <note>The execution of the censure, June 30, 1637, is related on p. 16-30.</note>
+                  <note>Title page ornament, head-piece, initial.</note>
+                  <note>Signatures: A-D⁴.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Burton, Henry, 1578-1648 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Prynne, William, 1600-1669 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Seditious libel) --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185117:1"/>
+            <pb facs="tcp:185117:1" rendition="simple:additions"/>
+            <p>A BRIEFE RELATION Of certain ſpeciall and moſt ma<g ref="char:EOLhyphen"/>teriall paſſages, and ſpeeches in the Starre-Chamber, occaſioned and delivered Iune the 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi rend="sup">th</hi>. 1637. at the cenſure of thoſe three worthy Gentle<g ref="char:EOLhyphen"/>men, D<hi rend="sup">r</hi>. BASTWICKE, M<hi rend="sup">r</hi>. BVRTON and M<hi rend="sup">r</hi>. PRYNNE, as it hath beene truely and faithfully gathered from their owne mouthes by one preſent at the ſayd Cenſure.</p>
+            <p>Printed in the Yeere 1637.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:185117:2"/>
+            <pb facs="tcp:185117:2"/>
+            <head>A Briefe Relation of certain ſpeciall and moſt materiall paſſages, and ſpeeches in the Starre-Chamber, occaſioned and delivered Iune the 14<hi rend="sup">th</hi>. 1637. at the cenſure of thoſe three worthy Gentlemen, D<hi rend="sup">r</hi>. BASTWICKE, M<hi rend="sup">r</hi>. BVRTON and M<hi rend="sup">r</hi>. PRYNNE, as it hath beene truely and faithfully gathered from their owne mouthes by one preſent at the ſayd Cenſure.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Etweene eight and nine a clocke in the morning (the 14. of Iune) the Lords being ſett in their places in the ſaid Court of Starre-cham<g ref="char:EOLhyphen"/>ber, and caſting their eyes upon the Priſoners, then at the Barr, S<hi rend="sup">r</hi>. Iohn Finch (chiefe Iuſtice of the Common Pleas) began to ſpeake after this maner.</p>
+            <sp>
+               <speaker>S<hi rend="sup">r</hi>. Iohn Finch.</speaker>
+               <p>I had thought Mr. Prynne had had no eares, but me thinkes hee hath eares; which cauſed many of the Lords to take the ſtricter view of him; and for their better ſatisfaction, the Vſher of the Court was commaunded to turne up his haire, and ſhew his eares: upon the ſight whereof the Lords were diſpleaſed they had beene for<g ref="char:EOLhyphen"/>merly no more cut off; and caſt out ſome diſgracefull words of him.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>To which M<hi rend="sup">r</hi>. Prynne replied; My Lords, there is never a one of your Honours, but would be ſorry to have your eares as mine are.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:185117:3"/>
+               <speaker>L. Keeper.</speaker>
+               <p>The Lord Keeper replied againe; In good faith hee is ſomewhat ſawcy.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>I hope (ſayd M<hi rend="sup">r</hi>. Prynne) your Honours will not be offended, I pray God give you eares to heare.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>The buſines of the day (ſayd the Lord Keeper) is to proceed on the Priſoners at the Barr.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>M<hi rend="sup">r</hi>. Prynne then humbly deſired the Court to give him leave to make a motion or two, which being graunted, he mooves.</p>
+               <p>Firſt that their Honours would be pleaſed to accept of a croſſe Bill againſt the Prelates, ſigned with their owne hands, being that which ſtands with the Iuſtice of the Court, which he humbly craved, and ſo tendred it.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keep r.</speaker>
+               <p>As for your croſſe Bill, it is not the buſines of the day; Hereaf<g ref="char:EOLhyphen"/>ter if the Court ſhall ſee juſt cauſe, and that it ſavours not of Li<g ref="char:EOLhyphen"/>belling, we may accept of it; for my part I have not ſeene it, but have heard ſomewhat of it.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>I hope your Honours will not refuſe it, being it is on his Maje<g ref="char:EOLhyphen"/>ſties behalfe; wee are his Majeſties Subjects, and therefore require the Iuſtice of the Court.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>But this is not the buſines of the day.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>Why then, My Lords, I have a ſecond motion, which I hum<g ref="char:EOLhyphen"/>bly pray your Honours to graunt; which is, That your Lordſhips will be pleaſed to diſmiſſe the Prelates, here now ſitting from ha<g ref="char:EOLhyphen"/>ving any voyce in the cenſure of this cauſe (being generally knowne to be Adverſaries) as being no wayes agreeable with equity or rea<g ref="char:EOLhyphen"/>ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that they who are our Adverſaries, ſhould be our Iudges: Therefore wee humbly crave they may be expunged out of the Court.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>In good faith its a ſweet motion is't not? Herein you are be<g ref="char:EOLhyphen"/>come Libellous. And if you ſhould thus Libell all the Lords and Reverend Iudges, as you doe the moſt Reverend Prelates, by this your Plea, you would have none to paſſe ſentence upon you for your Libelling, becauſe they are parties.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>Vnder correction (My Lord) this doth not hold; your Honour need not putt that for a certainty, which is an uncertainty; wee have nothing to ſay to any of your Honours, but onely to the Pre<g ref="char:EOLhyphen"/>lates.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:185117:3"/>
+               <speaker>L. Keeper.</speaker>
+               <p>Well, proceed to the buſines of the day; Read the Information. Which was read, being very large; and theſe five Bookes annexed therevnto (viz.) a Booke of D<hi rend="sup">r</hi>. Baſtwicks written in Latin.</p>
+               <p>The ſecond a little Booke, intiteled, Newes from Ipſwich. The third intiteled, A Divine Tragedy, recording Gods fearefull judge<g ref="char:EOLhyphen"/>ments on Sabbath breakers. The fourth M<hi rend="sup">r</hi>. Burtons Booke, intite<g ref="char:EOLhyphen"/>led, An Apology of an Appeale to the Kings moſt Excellent Maje<g ref="char:EOLhyphen"/>ſty, with two Sermons for God and the King, preached on the fifth of November laſt. The fifth and laſt D<hi rend="sup">r</hi>. Baſtwickes Letany.</p>
+               <p>The Kings Counſell (being five) tooke each of them a ſeverall Booke, and deſcanted there at the Barre upon them accor<g ref="char:EOLhyphen"/>ding to their pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. At<g ref="char:EOLhyphen"/>torney.</speaker>
+               <p>M<hi rend="sup">r</hi>. Attorney began firſt with D<hi rend="sup">r</hi>. Baſtwickes Latin Booke, pick<g ref="char:EOLhyphen"/>ing out here and there particular concluſions that beſt ſerved for his owne ends, (as did all the other Counſell out of the fower other Bookes) to the great abuſe of the Authors, as themſelves there im<g ref="char:EOLhyphen"/>mediately complained, intreating them to read the foregoing grounds upon which the ſayd concluſions depended, without which they could not underſtand the true meaning of them.</p>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <p>Next unto the Attorney, Serjeant Whitfeild falls upon Reverend M<hi rend="sup">r</hi>. Burtons Booke, who vented much bitternes againſt that unre<g ref="char:EOLhyphen"/>prooveable Booke (as all that read it with an honeſt and orthodox heart may clearely perceive) ſwearing, In good faith, My Lords, there is never a page in this Booke, but deſerves a heavier and dee<g ref="char:EOLhyphen"/>per Cenſure then this Court can lay upon him.</p>
+               <p>Next followed A. B. who in like maner deſcanted upon the Newes from Ipſwich, charging it to be full of pernitious lyes, and eſpecially vindicating the honor of Mathew Wren, Biſhop of Nor<g ref="char:EOLhyphen"/>wich, as being a learned pious and Reverend Father of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Little<g ref="char:EOLhyphen"/>ton.</speaker>
+               <p>In the fourth place followes the Kings Solicitor, who acts his part upon the Divine Tragedy; To which part of it, concerning Gods judgements on Sabbath breakers, hee had little to ſay, but onely putt it off with a ſcoffe, ſaying; that they ſate in the Seate of God, who judged thoſe accidents which fell out upon perſons ſuddainly ſtrooken, to be the judgement of God for Sabbath-breaking, or
+<pb n="6" facs="tcp:185117:4"/>words to the like effect: but enlarged himſelfe upon that paſſage, which reflected upon that late Reverend (as hee termed him) and learned Profeſſor of the Law, and his Majeſties faithfull Servant M<hi rend="sup">r</hi>. William Noy, his Majeſties late Attorney, who (as hee ſaid) was moſt ſhamefully abuſed by a ſlaunder layd upon him; which was, That it ſhould be reported, that Gods judgement fell upon him for ſo eagerly proſecuting that innocent perſon M<hi rend="sup">r</hi>. Prynne; which judgement was this; That he laughing at M<hi rend="sup">r</hi>. Prynne while hee was ſuffering upon the Pillory, was ſtrooke with an yſſue of blood in his privy part, which by all the art of man could never be ſtopped unto the day of his death,<note place="margin">a.</note> which was ſoone after. But the truth of this (My Lords ſayth hee) you ſhall finde to be as pro<g ref="char:EOLhyphen"/>bable as the reſt; for wee have here three or fower Gentlemen of good credit and ranke, to teſtify upon oath, that hee had that yſſue long before; and thereupon made a ſhew as if hee would call for them in before the Lords, to witneſſe the truth thereof (with theſe particular words, Make roome for the Gentlemen to come in there) but no one witneſſe was ſeene to appeare: Which was a pretty deluſion, and worth all your obſervations that read it: And ſo concluded (as the reſt) that this Booke alſo deſerved a heavy and deepe Cenſure.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. Har<g ref="char:EOLhyphen"/>bert.</speaker>
+               <p>Laſtly followes M<hi rend="sup">r</hi>. Harbert, whoſe deſcant was upon D<hi rend="sup">r</hi>. Baſt<g ref="char:EOLhyphen"/>wickes Letanie, picking out one or two paſſages therein, and ſo drawing thence his concluſion, that jointly with the reſt, it deſerved a heavy Cenſure.</p>
+               <p>The Kings Counſell having all ſpoken what they could, the Lord Keeper ſayd to the Priſoners at the Barre.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Kee<g ref="char:EOLhyphen"/>per.</speaker>
+               <p>You heare Gentlemen wherewith you are charged; and now, leaſt you ſhould ſay you cannot have liberty to ſpeake for your ſelves, the Court gives you leave to ſpeake what you can, with theſe conditions:</p>
+               <p>Firſt, that you ſpeake within the bounds of modeſty.</p>
+               <p>Secondly, that your ſpeeches be not Libellous.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoners.</speaker>
+               <p>They all three anſwered, they hoped ſo to order their ſpeech as to be free from any immodeſt or Libellous ſpeaking.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>Then ſpeake a Gods name, and ſhew cauſe why the Court ſhould not proceed in Cenſure (as taking the cauſe <hi>pro confeſſo</hi>) againſt you.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:185117:4"/>
+               <speaker>M. Prynne</speaker>
+               <p>My honorable good Lord, ſuch a day of the moneth there came a Subpoena from your Honours, to enter my appearance in this Court; which being entred, I tooke forth a coppy of the Informa<g ref="char:EOLhyphen"/>tion, which being taken, I was to draw my Anſwer, which I en<g ref="char:EOLhyphen"/>deavoured to doe, but being ſhutt up cloſe priſoner, I was deſerted of all meanes by which I ſhould have done it; for I was no ſooner ſerved with the Subpoena, but I was ſhortly after ſhutt up cloſe priſoner, with a ſuſpention of pen, inke and paper; which cloſe im<g ref="char:EOLhyphen"/>priſonment did eate up ſuch a deale of my time, that I was hindred the bringing in of my Anſwer: You did aſſigne me Counſell, t'is true, but they neglected to come to me, and I could not come to them, being under lock and key: Then upon motion in Court, yee gave me liberty to goe to them; but then preſently after that mo<g ref="char:EOLhyphen"/>tion (I know not for what cauſe, nor upon whoſe commaund) I was ſhutt up againe: And then I could not compell my Counſell to come to me, and my time was ſhort, and I had neither pen nor inke, nor Servant to doe any thing for me, for my Servant was then alſo kept cloſe priſoner under a Purſevants hands; this was to put impoſſibilities upon mee. Then upon a ſecond motion for pen and inke (which was graunted me) I drew up ſome Inſtructions, and in a fortnight time ſent 40 ſheetes to my Counſell; ſuddainly after I drew up 40 ſheetes more, and ſent to them; My Lord, I did no<g ref="char:EOLhyphen"/>thing but by the adviſe of my Counſell, by whom I was ruled in the drawing up of all my Anſwer, and payd him twice for drawing it, and ſome of my Counſell would have ſet their hands to it. Here is my Anſwer, I tender it upon my oath, which your Lordſhips can<g ref="char:EOLhyphen"/>not deny with the Iuſtice of the Court.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>Wee can give you a Preſident, that this Court hath proceeded and taken a cauſe <hi>pro confeſſo</hi> for not putting in an Anſwer in ſixe dayes; you have had a great deale of favour ſhewed in affording you longer time, and therefore the Court is free from all calumny or aſperſion, for rejecting your Anſwer not ſigned with the Counſells hands.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>But one word or two, my Lords, I deſire your Honours to heare me; I put a caſe in Law, that is often pleaded before your Lordſhips, one man is bound to bring in two witneſſes; if both or one of them ſayle, that hee cannot bring them in, doth the Law (my Lords)
+<pb n="8" facs="tcp:185117:5"/>make it the mans act? You aſſigned me two Counſellors; one of them fayled, I cannot compell him; here he is now before you, let him ſpeake, if I have not uſed all my endeavours to have had him ſighed it (which my other Counſell would not have done, if this would have ſet his hand to it with him) and to have put it in long ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Counſell.</speaker>
+               <p>My Lord, there was ſo long time ſpent ere I could doe any thing, after I was aſſigned his Counſell; that it was impoſſible his Anſwer could be drawne vp in ſo ſhort a time as was allotted; for after long expectation, ſeeing hee came not to mee, I went to him, where I found him ſhut up cloſe priſoner, ſo that I could not have acceſſe to him; Whereupon I motioned to the Lieftenant of the Tower, to have free liberty of ſpeech with him concerning his Anſwer; which being graunted me, I found him very willing and deſirous to have it drawne up; whereupon I did moove in this Court for pen and paper; which was graunted, the which he no ſooner had gotten, but he ſet himſelf to draw up Inſtructions, and in a ſhort time, ſent me 40 ſheetes; and ſoone after I received 40 more; but I found the Anſwer ſo long, and of ſuch a nature, that I durſt not ſet my hand to it, for feare of giving your Honours diſtate.</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>My Lords, I did nothing but according to the direction of my Counſell, onely I ſpake mine owne words, my Anſwer was drawne up by his conſent, it was his owne act, and hee did approove of it; and if he will be ſo baſe a Coward, to doe that in private, which hee dares not acknowledge in publick, I will not let ſuch a ſinne lye on my conſcience, let it reſt with him. Here is my Anſwer, which though it be not ſigned with their hands, yet here I tender it upon my oath, which you cannot in Juſtice deny.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>But M<hi rend="sup">r</hi>. Prynne the Court deſires no ſuch long Anſwer; Are you guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>M. Prynne</speaker>
+               <p>My good Lord, I am to anſwer in a defenſive way, Is here any one, that can witnes any thing againſt me? Let him come in. The Law of God ſtandeth thus; That a man is not to be condemned, but under the mouth of two or three witneſſes. Here is no witnes comes in againſt me, my Lord, neither is there in all the Information one clauſe that doth particularly fall on mee, but onely in the gene<g ref="char:EOLhyphen"/>rall, there is no Booke layd to my charge. And ſhall I be condemned
+<pb n="9" facs="tcp:185117:5"/>for a particular act, when no accuſation of any particular act can be brought againſt mee? This were moſt unjuſt and wicked. Here I tender my Anſwer to the Information upon my oath; My Lord, you did impoſe impoſſibilities upon me, I could doe no more then I was able.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>Well hold your peace, your Anſwer comes too late. Speake you D<hi rend="sup">r</hi>. Baſtwicke.</p>
+            </sp>
+            <sp>
+               <speaker>D<hi rend="sup">r</hi>. Bast<g ref="char:EOLhyphen"/>wicke.</speaker>
+               <p>My Honorable Lords, me thinks you looke like an Aſſembly of Gods, and ſit in the place of God; yee are called the Sonnes of God: And ſince I have compared you to Gods, give me leave a little to paralell the one with the other, to ſee whither the compari<g ref="char:EOLhyphen"/>ſon betweene God and you doth hold in this noble and righteous cauſe. This was the carriage of Almighty God in the cauſe of So<g ref="char:EOLhyphen"/>dome: Before hee would pronounce ſentence, or execute judge<g ref="char:EOLhyphen"/>ment, hee would firſt come downe, and ſee whither the crime was altogether according to the cry that was come up. And with whom doth the Lord conſult, when hee came downe? with his Servant Abraham, and hee gives the reaſon; for I know (ſayth hee) that Abraham will commaund his children and houſehold after him, that they ſhall keep the way of the Lord to doe Iuſtice and Iudgement. My good Lords, thus ſtands the caſe betweene your Honours and us this day; There is a great cry come up into your eares, againſt us, from the Kings Attorney; why now be you pleaſed to deſcend and ſee if the crime be according to the cry, and conſult (with God) (not the Prelates being the adverſary part, and (as it is apparant to all the World) doe proudly ſet themſelves againſt the wayes of God, and from whom none can expect Iuſtice or Iudgement) but with righteous men, that will be impartiall on either ſide, before you proceed to Cenſure, which Cenſure you cannot paſſe on us, with<g ref="char:EOLhyphen"/>out great injuſtice before you heare our Anſwers read: Here is my Anſwer, which I here tender upon my oath; My good Lords, give us leave to ſpeake in our owne defence; wee are not conſcious to our ſelves of any thing wee have done that deſerves a Cenſure this day in this Honourable Court, but that wee have ever laboured to maintaine the Honor, Dignity, and Prerogative Royall of our So<g ref="char:EOLhyphen"/>veraigne Lord the King, Let my Lord the King live forever. Had I a thouſand lives, I ſhould thinke them all too little to ſpend for the
+<pb n="10" facs="tcp:185117:6"/>maintenance of his Majeſties Royall Prerogative, My good Lords, can you proceed to Cenſure before you know my cauſe? I dare undertake, that ſcarce any one of your Lordſhips have read my Bookes; And can you then Cenſure me for what you know not, and before I have made my defence? O my Noble Lords! Is this righteous Iudgement? This were againſt the Law of God and man, to condemne a man, before you know his crime. The Go<g ref="char:EOLhyphen"/>vernour before whom S. Paul was carried (who was a very Hea<g ref="char:EOLhyphen"/>then) would firſt heare his cauſe before he would paſſe any Cenſure upon him; And doth it beſeeme ſo Noble and Chriſtian Aſſembly to condemne me before my Anſwer be peruſed and my cauſe knowne? Men, Brethren, and Fathers, into what an age are wee fallen? I deſire your Honours to lay aſide your Cenſure for this day, and inquire into my cauſe, heare my Anſwer read; which if you refuſe to doe, I here profeſſe, I will cloath it in Roman Buffe, and ſend it abroad unto the view of all the World, to cleare mine inno<g ref="char:EOLhyphen"/>cency, and ſee your great injuſtice in this cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Kee<g ref="char:EOLhyphen"/>per.</speaker>
+               <p>But this is not the buſines of the day; Why brought you not in your Anſwer in due time?</p>
+            </sp>
+            <sp>
+               <speaker>D<hi rend="sup">r</hi>. Baſt<g ref="char:EOLhyphen"/>wicke.</speaker>
+               <p>My Lord, a long time ſince I tendred it to your Honour, I ſay<g ref="char:EOLhyphen"/>led not in any one particular: And if my Counſell be ſo baſe and cowardly, that they dare not ſigne it for feare of the Prelates (as I can make it appeare) therefore have I no Anſwer? My Lord, here is my Anſwer, which though my Counſell out of a baſe ſpirit dare not ſet their hands unto, yet I tender it upon my oath.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>But M<hi rend="sup">r</hi>. D<hi rend="sup">r</hi>. you ſhould have beene briefe; you tendred in too large an Anſwer, which (as I heard) is as Libellous as your Bookes.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. Baſtw.</speaker>
+               <p>No, my Lord, it is not Libellous though large, I have none to anſwer for me but my ſelfe, and being left to my ſelfe, I muſt plead my conſcience in anſwer to every circumſtance of the Informa<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>What ſay you M<hi rend="sup">r</hi>. D. are you guilty, or not guilty? Anſwer aye or no, you needed not to have troubled your ſelf ſo much about ſo large an Anſwer.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:185117:6"/>
+               <speaker>D<hi rend="sup">r</hi>. Bast<g ref="char:EOLhyphen"/>wicke.</speaker>
+               <p>I know, none of your Honours have read my Bookes; And can you with the Iuſtice of the Court, condemne me before you know what is written in my Bookes?</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>What ſay you to that was read to you even now?</p>
+            </sp>
+            <sp>
+               <speaker>D<hi rend="sup">r</hi>. Baſtw.</speaker>
+               <p>My Lord, He that read it did ſo murther the ſence of it, that had I not knowne, what I had written, I could not tell what to have made of it.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>What ſay you to the other Sentence read to you?</p>
+            </sp>
+            <sp>
+               <speaker>D<hi rend="sup">r</hi>. Baſtw.</speaker>
+               <p>That was none of mine, I will not father that which was none of my owne.</p>
+            </sp>
+            <sp>
+               <speaker>L. Dorſeit.</speaker>
+               <p>Did not you ſend that Booke, as now it is, to a Noble mans houſe, together with a Letter directed to him?</p>
+            </sp>
+            <sp>
+               <speaker>D. Baſtw.</speaker>
+               <p>Yea, my Lord, I did ſo, but withall you may ſee in my Epiſtle ſet before the Booke, I did at firſt diſclayme what was not mine; I ſent my Booke over by a Dutch Merchant, who it was that wrote the addition I doe not know, but my Epiſtle ſet to my Booke, made manifeſt what was mine, and what was not; and I cannot juſtly ſuf<g ref="char:EOLhyphen"/>fer for what was none of mine.</p>
+            </sp>
+            <sp>
+               <speaker>L. Arund.</speaker>
+               <p>My Lord, you heare by his owne ſpeech, the cauſe is taken <hi>pro confeſſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>Yea, you ſay true my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>D<hi rend="sup">r</hi>. Bastw.</speaker>
+               <p>My noble Lord of Arundell, I know you are a noble Prince in Iſrael, and a great Peere of this Realme; There are ſome honorable Lords in this Court, that have beene forced out as combatants in a ſingle duell; it is betweene the Prelates and us, at this time as be<g ref="char:EOLhyphen"/>tweene two that have appointed the feild. The one being a coward goes to the Magiſtrate, and by vertue of his Authority diſarmes the other of his weapons, and gives him a Bullruſh, and then challenges him to fight. If this be not baſe cowardice, I know not what be<g ref="char:EOLhyphen"/>longs to a Souldier. This is the caſe betweene the Prelates and us, they take away our weapons (our Anſwers) by vertue of your Au<g ref="char:EOLhyphen"/>thority, by which we ſhould defend our ſelves, and yet they bidd us fight. My Lord, doth not this favour of a baſe cowardly ſpirit? I know, my Lord, there is a Decree gonne forth (for my Sentence was paſſed long ſince) to cut of our eares.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:185117:7"/>
+               <speaker>Lord Kee<g ref="char:EOLhyphen"/>per.</speaker>
+               <p>Who ſhall know our Cenſure, before the Court paſſe it? Doe you propheſy of your ſelves?</p>
+            </sp>
+            <sp>
+               <speaker>D<hi rend="sup">r</hi>. Bastw.</speaker>
+               <p>My Lord, I am able to proove it, and that from the mouth of the Prelates owne Servants, that in Auguſt laſt it was decreed, that D<hi rend="sup">r</hi>. Baſtwicke ſhould looſe his eares. O my Noble Lords! Is this righteous judgement? I may ſay, as the Apoſtle once ſayd, What, whipp a Roman? I have beene a Souldier able to lead an Army into the field, to fight valiantly for the honour of their Prince; Now I am a Phyſitian, able to cure Nobles, Kings, Princes and Emperors: And to curtolize a Romans eares, like a Curre, O my honorable Lords! is it not too baſe an act for ſo noble an aſſembly, and for ſo righteous and honorable a cauſe? The cauſe my Lords is great, it concernes the glory of God, the honour of our King, whoſe Pre<g ref="char:EOLhyphen"/>rogative wee labour to maintaine and to ſet up in a high maner, in which your Honours Liberties are engaged: And doth not ſuch a cauſe deſerve your Lordſhips conſideration, before you proceed to Cenſure? Your Honours may be pleaſed to conſider, that in the laſt cauſe heard and cenſured in this Court, betweene S<hi rend="sup">t</hi>. Iames Bagge and the Lord Moone, wherein your Lordſhips tooke a great deale of paynes, with a great deale of patience, to heare the Bills on both ſides, with all the Anſwers and Depoſitions largely layd open before you; which cauſe when you had fully heard, ſome of your Honours, now ſitting in Court, ſayd, You could not in conſcience proceed to Cenſure, till you had taken ſome time to recollect your ſelves: If in a cauſe of that nature, you could ſpend ſo much time, and afterwards recollect your ſelves before you would paſſe Cen<g ref="char:EOLhyphen"/>ſure: How much more ſhould it moove your Honours, to take ſome time in a cauſe wherein the glory of God, the Prerogative of his Majeſtie, your Honours dignity, and the Subjects Liberty is ſo largely ingaged? My good Lords, it may fall out to be any of your Lordſhips caſes to ſtand as Delinquents at this Barre, as wee now doe: It is not unknowne to your Honours, the next cauſe that is to ſucceed ours, is touching a perſon that ſometimes hath beene in greateſt power in this Court: And if the mutations and revolutions of perſons and times be ſuch, then I doe moſt humbly beſeech your Honours to looke on us, as it may befall your ſelves. But if all this will not prevaile with your Honours, to peruſe my Bookes, and
+<pb n="13" facs="tcp:185117:7"/>heare my Anſwer, read, which here I tender upon the word and oath of a Soldier, a Gentleman, a Scholler, and a Phyſitian: I will cloath them (as I ſayd before) in Roman Buffe, and diſperſe them throughout the Chriſtian world, that future generations may ſee the Innocency of this cauſe, and your Honors unjuſt proceedings in it; all which I will doe, though it coſt me my life.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>M<hi rend="sup">r</hi>. D<hi rend="sup">r</hi>. I thought you would be angry.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. Baſtw.</speaker>
+               <p>No my Lord, you are mis-taken, I am not angry nor paſſionate, all that I doe preſſe is, that you would be pleaſed to peruſe my Anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>Well, hold your peace. M<hi rend="sup">r</hi>. Burton, what ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>M. Burton.</speaker>
+               <p>My good Lords, your Honors (it ſhould ſeeme) doe determine to Cenſure us, and take our cauſe <hi>pro confeſſo,</hi> although we have la<g ref="char:EOLhyphen"/>boured to give your Honors ſatisfaction in all things: My Lords, what you have to ſay againſt my Booke, I confeſſe I did write it, yet did I not any thing out of intent of Commotion or Sedition: I delivered nothing, but what my Text ledd me too, being choſen to ſuite with the day, namely the fifth of November; the words were theſe, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>M<hi rend="sup">r</hi>. Burton, I pray ſtand not naming Texts of Scripture now, we doe not ſend for you to preach, but to anſwer to thoſe things that are objected againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>M. Burton.</speaker>
+               <p>My Lord, I have drawne up my Anſwer to my great paynes and charges, which Anſwer was ſigned with my Counſells hands, and re<g ref="char:EOLhyphen"/>ceived into the Court, according to the Rule and Order thereof. And I did not thinke to have beene called this day to a Cenſure, but have had a legall proceeding by way of Bill and Anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>Your Anſwer was impertinent.</p>
+            </sp>
+            <sp>
+               <speaker>M. Burton</speaker>
+               <p>My Anſwer (after it was entred into the Court) was referred to the Iudges, but by what meanes I doe not know, whither it be impertinent, and what cauſe your Lordſhips had to caſt it out, I know not. But after it was approoved of, and received, it was caſt out as an impertinent Anſwer.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:185117:8"/>
+               <speaker>L. Finch.</speaker>
+               <p>The Iudges did you a good turne to make it impertinent, for it was as Libellous as your Booke, ſo that your Anſwer deſerved a Cenſure alone.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>What ſay you M<hi rend="sup">r</hi>. Burton, are you guilty, or not?</p>
+            </sp>
+            <sp>
+               <speaker>M. Burton</speaker>
+               <p>My Lord, I deſire you not onely to peruſe my Booke, here and there, but every paſſage of it.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>M<hi rend="sup">r</hi>. Burton, time is ſhort, are you guilty, or not guilty? What ſay you to that which was read? Doth it become a Miniſter to de<g ref="char:EOLhyphen"/>liver himſelf in ſuch a rayling and ſcandalous way?</p>
+            </sp>
+            <sp>
+               <speaker>M. Burton</speaker>
+               <p>In my judgement, and as I can proove it, it was neither rayling nor ſcandalous; I conceive that a Miniſter hath a larger liberty then alwayes to goe in a milde ſtrayne: I being the Paſtor of my people, whom I had in charge, and was to inſtruct, I ſuppoſed it was my duety to informe them of thoſe Innovations that are crept into the Church, as likewiſe of the danger and ill conſequence of them: As for my Anſwer, yee blotted out what yee would, and then the reſt which made beſt for your owne ends, you would have to ſtand: And now for mee to tender onely what will ſerve for your owne turnes, and renounce the reſt, were to deſert my cauſe, which be<g ref="char:EOLhyphen"/>fore I will doe, or deſert my conſcience, I will rather deſert my body, and deliver it up to your Lordſhips to doe with it, what you will.</p>
+            </sp>
+            <sp>
+               <speaker>L. Keeper.</speaker>
+               <p>This is a place, where you ſhould crave mercy and favour, M<hi rend="sup">r</hi>. Burton, and not ſtand upon ſuch termes as you doe.</p>
+            </sp>
+            <sp>
+               <speaker>M. Burton</speaker>
+               <p>There wherein I have offended through humane frailty, I crave of God and man pardon: And I pray God, that in your Sentence, you may ſo Cenſure us, that you may not ſinne againſt the Lord.</p>
+            </sp>
+            <p>Then the Priſoners deſiring to ſpeake a little more for them<g ref="char:EOLhyphen"/>ſelves, were commaunded to ſilence. And ſo the Lords proceeded to Cenſure.</p>
+            <q>
+               <pb n="15" facs="tcp:185117:8"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="censure">
+                        <head>The Lord Cottingtons Cenſure.</head>
+                        <p>I Condemne theſe three men to looſe their eares in the Pallace-yard at Weſtminſter; To be fined five thou<g ref="char:EOLhyphen"/>ſand pounds a man to his Majeſtie: And to perpetuall impriſonment in three re<g ref="char:EOLhyphen"/>mote places of the Kingdome, namely, the Caſtles of Carnaruan, Cornwall, and Lancaſter.</p>
+                        <closer/>
+                        <postscript>
+                           <head>The Lord Finch added to this Cenſure.</head>
+                           <p>M<hi rend="sup">R</hi>. Prynne to be ſtigmatized in the Cheekes with two Letters (S &amp; L) for a Seditious Libel<g ref="char:EOLhyphen"/>ler. To which all the Lords agreed. And ſo the Lord Keeper concluded the Cenſure.</p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="16" facs="tcp:185117:9"/>
+            <p>THe Execution of the Lods Cenſure in Starre-Chamber upon D<hi rend="sup">r</hi>. Baſtwicke, M<hi rend="sup">r</hi>. Prynne, and M<hi rend="sup">r</hi>. Burton, in the Pallace-yard at Weſtminſter, the 30<hi rend="sup">th</hi>. day of Iune laſt 1637. at the ſpectation whereof the number of people was ſo great (the place being very large) that it cauſed admirat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on in all that beheld them; who came with tender affections to behold thoſe three renowned Souldiers and Servants of Ieſus Chriſt, who came with moſt undaunted and magnanimous courage thereunto, having their way ſtrawed with ſweet hearbes from the houſe out of which they came to the Pillary, with all the honour that could be done unto them.</p>
+            <p>D<hi rend="sup">r</hi>. Baſtwicke and M<hi rend="sup">r</hi>. Burton firſt meeting, they did cloſe one in the others armes three times, with as much expreſſions of love as might be, rejoycing that they mett at ſuch a place, upon ſuch an occaſion, and that God had ſo highly honoured them, as to call them forth to ſuffer for his glorious Truth.</p>
+            <p>Then immediately after, M<hi rend="sup">r</hi>. Prynne camme, the D<hi rend="sup">r</hi>. and hee ſalu<g ref="char:EOLhyphen"/>ting each other, as M<hi rend="sup">r</hi>. Burton and hee did before. The D<hi rend="sup">r</hi>. then went up firſt on the Scaffold, and his wife immediately following came up to him, and like a loving Spouſe ſaluted each eare with a kiſſe, and then his mouth; whoſe tender love, boldnes, and cheere<g ref="char:EOLhyphen"/>fullnes ſo wrought upon the peoples affections, that they gave a marvailous great ſhowte, for joy to behold it. Her huſband deſired her not to be in the leaſt maner diſmay'd at his ſuffrings: And ſo for a while they parted, ſhe uſing theſe words: Farewell my Deereſt, be of good comfort, I am nothing diſmay'd. And then the D<hi rend="sup">r</hi>. began to ſpeake theſe words.</p>
+            <p>There are many that are this day Spectators of our ſtanding here,<note place="margin">D<hi rend="sup">r</hi>. Bast<g ref="char:EOLhyphen"/>wicke.</note> as Delinquents, though not Delinquents, we bleſſe God for it. I am not conſcious to my ſelf wherein I have committed the leaſt treſpaſſe (to take this outward ſhame) either againſt my God, or my King. And I doe the rather ſpeake it, that you that are now be<g ref="char:EOLhyphen"/>holders, may take notice, how farre Innocency will preſerve you in ſuch a day as this is; for wee come here in the ſtrength of our God, who hath mightily ſupported us, and filled our hearts with greater comfort then our ſhame or contempt can be. The firſt oc<g ref="char:EOLhyphen"/>caſion
+<pb n="17" facs="tcp:185117:9"/>of my trouble was by the Prelates, for writing a Booke againſt the Pope, and the Pope of Canterbury ſayd I wrote againſt him, and therefore queſtioned mee: But if the Preſſes were as open to us, as formerly they have beene, we would ſhatter his Kingdome about his eares: But be yee not deterred by their power, neither be affrighted at our ſufferings; Let none determine to turne from the wayes of the Lord, but goe on, fight couragiouſly againſt Gog and Magog. I know there be many here who have ſet many dayes apart for our behalfe, (let the Prelates take notice of it) and they have ſent up ſtrong prayers to heaven for us, wee feele the ſtrength and benefit of them at this time; I would have you to take notice of it; wee have felt the ſtrength and benefit of your prayers all along this cauſe. In a word, ſo farre I am from baſe feare, or caring for any thing they can doe, or caſt upon mee, that had I as much blood as would ſwell the Theames, I would ſhedd it every droppe in this cauſe. Therefore be not any of you diſcouraged, be not daunted at their power, ever labouring to preſerve Innocency, and keep peace within, goe on in the ſtrength of your God, and he will never fayle you, in ſuch a day as this; As I ſayd before, ſo I ſay againe; Had I as many lives as I have heires on my head, or dropps of blood in my veynes, I would give them up all for this cauſe. This plot of ſending vs to thoſe remote places, was firſt conſulted and agitated by the Ieſuites, as I can make it plainely appeare. O ſee what times wee are fallen into, that the Lords muſt ſit to act the Ieſuites plots! For our owne parts wee owe no malice to the perſons of any of the Pre<g ref="char:EOLhyphen"/>lates, but would lay our necks under their feet to doe them good as they are men, but againſt the uſurpation of their power, as they are Biſhops, wee doe profeſſe our ſelves enemies till doomes day.</p>
+            <p>M<hi rend="sup">r</hi>. Prynne ſhaking the D<hi rend="sup">r</hi>. by the hand, deſired him that hee might ſpeake a word or two. With all my heart, ſayd the Doctor.</p>
+            <p>The cauſe (ſayd M<hi rend="sup">r</hi>. Prynne) of my ſtanding here,<note place="margin">M. Prynne</note> is for not bringing in my Anſwer, for which my cauſe is taken <hi>pro confeſſo</hi> againſt mee. What endeavours I uſed for the bringing in thereof, that, God and my owne conſcience, and my Counſell knowes, whoſe cowardiſe ſtands upon Record to all ages. For rather then I will have my cauſe a leading cauſe, to deprive the Subjects of that
+<pb n="18" facs="tcp:185117:10"/>liberty which I ſeeke to maintaine, I rather expoſe my perſon to a leading example, to beare this puniſhment: And I beſeech you all to take notice of their proceedings in this cauſe. When I was ſerved with a Subpoena into this Court, I was ſhut up cloſe priſoner, that I could have no acceſſe to Counſell, nor admitted pen, inke or paper to draw up my Anſwer by my Inſtructions, for which I feed them twice (though to no purpoſe) yet when all was done, my Anſwer would not be accepted into the Court, though I tendered it upon my oath. I appeale to all the world, if this were a legall or juſt pro<g ref="char:EOLhyphen"/>ceeding. Our accuſation is in point of Libell (but ſuppoſedly) againſt the Prelates. To cleare this now I will give you a little light, what the Law is in point of Libell (of which profeſſion I have ſometimes beene, and ſtill profeſſe my ſelfe to have ſome know<g ref="char:EOLhyphen"/>ledge in) you ſhall finde in caſe of Libell, two Statutes: The one in the ſecond of Queen Mary; The other in the ſeaventh of Queen Elizabeth. That in the ſecond of Queen Mary, the extremity and heighth of it runs thus: That if a Libeller doth goe ſo farre and ſo high as to Libell againſt King or Queen by denomination, the higth and extremity of the Law is; that they lay no greater fine on him then an hundred pounds, with a moneths impriſonment; and no corporall puniſhment, except he doe refuſe to pay his fine; and then to inflict ſome puniſhment in liewe of that fine at the moneths end: Neither was this Cenſure to be paſſed on him, except it were fully prooved by two witneſſes, who were to produce a certificat of their good demeanor for the credit of their report, or elſe confeſſed by the Libeller. You ſhall finde in that Statute 7. Eliz. ſome further ad<g ref="char:EOLhyphen"/>dition to the former of 2. Mariae, and that onely in point of fine and puniſhment; and it muſt ſtill reach as high as the perſon of King and Queen. Here this Statute doth ſet a fine of two hundred pounds; the other, but one: This ſets three moneths impriſonment; the former but one: So that therein onely they differ. But in this they both agree, namely, at the end of his impriſonment to pay his fine, and ſo to goe free without any further queſtioning: But if hee refuſe to pay his fine, then the Court is to inflict ſome puniſhment on him correſpondent to his fine. Now ſee the diſparity betweene thoſe times of theirs, and ours. A Libeller in Queen Maries time was fined but an hundred pounds, in Queen Elizabeths time two
+<pb n="19" facs="tcp:185117:10"/>hundred: In Queen Maries dayes but a moneths impriſonment; in Queen Elizabeths three moneths; and not ſo great a fine, if they li<g ref="char:EOLhyphen"/>belled not againſt King or Queen. Formerly the greateſt fine was but two hundred pounds, though againſt King or Queen; Now five thouſand pounds, though but againſt the Prelates, and that but ſup<g ref="char:EOLhyphen"/>poſedly, which cannot be prooved: Formerly, but three moneths impriſonment; Now perpetuall impriſonment: Then, upon paying the fine, no corporall puniſhment was to be inflicted: But now, in<g ref="char:EOLhyphen"/>famous puniſhment with the loſſe of blood and all other circum<g ref="char:EOLhyphen"/>ſtances that may aggravate it. See now what times wee are fallen in<g ref="char:EOLhyphen"/>to, when that Libelling (if it were ſo) againſt Prelates onely, ſhall fall higher, then if it touched Kings and Princes.</p>
+            <p>That which I have to ſpeake of next, is this: The Prelates find themſelves exceedingly agrieved and vexed againſt what wee have written concerning the uſurpation of their calling, where indeed wee declare their calling not to be <hi>Jure Divino.</hi> I make no doubt, but there are ſome Intelligencers or Abbettors within the hearing, whom I would have well to know and take notice of what I now ſay. I here in this place make this offer to them, That if I may be admitted a fayre diſpute, on fayre termes, for my cauſe; that I will maintaine, and doe here make the challenge againſt all the Prelates in the Kings Dominions, and againſt all the Prelates in Chriſten<g ref="char:EOLhyphen"/>dome, (let them take in the Pope, and all to help them) that their calling is not <hi>Iure Divino.</hi> I will ſpeake it againe; I make the chal<g ref="char:EOLhyphen"/>leng againſt all the Prelates in the Kings Dominions, and all Chri<g ref="char:EOLhyphen"/>ſtendome to maintaine, that their calling is not <hi>Iure Divino.</hi> If I make it not good, let me be hanged up at the Hall-Gate: Where<g ref="char:EOLhyphen"/>upon the people gave a great ſhout.</p>
+            <p>The next thing that I am to ſpeake of, is this: The Prelates find themſelves exceedingly agrieved and vext againſt what I have written in point of Law, concerning their Writs and Proces, That the ſending forth of Writs and Proces in their owne name, is againſt all Law and Iuſtice, and doth entrench on his Majeſties Prerogative Royall, and the Subjects Liberties. And here now I make a ſecond challeng againſt all the Lawyers in the Kingdome in way of fayre Diſpute, That I will maintaine, the Prelates ſending forth of Writs and Proces in their owne names, to be againſt all
+<pb n="20" facs="tcp:185117:11"/>Law and Iuſtice, and entrencheth on his Majeſties Prerogative Royall, and the Subjects Liberty. Leaſt it ſhould be forgotten, I ſpeake it againe, I here challeng all the whole Society of the Law upon a fayre Diſpute to maintaine, That the ſending forth of Writs and Proces in the Prelates owne names, to be againſt all Law and Iuſtice, and entrencheth on the Kings Prerogative Royall, and the Subjects Liberty. If I be not able to make it good, let me be put to the tormentingeſt death they can deviſe.</p>
+            <p>Wee prayſe the Lord, wee feare none but God and the King: Had wee reſpected our Liberties, wee had not ſtood here at this time: it was for the generall good and Liberties of you all that wee have now thus farre engaged our owne Liberties in this cauſe. For did you know, how deepely they have entrenched on your Li<g ref="char:EOLhyphen"/>berties in point of Popery; If you knew but into what times you are caſt, it would make you looke about you: And if you did but ſee what changes and revolutions of perſons, cauſes and actions, have beene made by one man, you would more narrowly looke into your Previledges, and ſee how farre your Liberty did lawfully ex<g ref="char:EOLhyphen"/>tend, and ſo maintaine it.</p>
+            <p>This is the ſecond time that I have beene brought to this place, who hath beene the Author of it, I thinke you all well know: For the firſt time, If I could have had leave given me, I could eaſily have cleered my ſelf of that which was then layd to my charge: As alſo I could have done now, if I might have beene permitted to ſpeake, That Booke for which I ſuffered formerly, eſpecially for ſome par<g ref="char:EOLhyphen"/>ticular words therein written, which I quoted out of Gods Word and auncient Fathers, for which notwithſtanding, they paſſed Cen<g ref="char:EOLhyphen"/>ſure on me; That ſame Booke was twice licenſed by publike Au<g ref="char:EOLhyphen"/>thority, and the ſame words I then ſuffered for, they are againe made uſe of, and applyed in the ſame ſence by Heylin in his Booke lately printed, and dedicated to the King, and no exceptions taken againſt them, but are very well taken.</p>
+            <pb n="21" facs="tcp:185117:11"/>
+            <p>Aye (ſayd Dr. Baſtwicke) and there is another Booke of his licenſed, wherein hee rayles againſt us three at his pleaſure;<note place="margin">D<hi rend="sup">r</hi>. Baſt<g ref="char:EOLhyphen"/>wicke.</note> and againſt all the Martyrs that ſuffered in Queen Maries dayes, calling them Schiſmaticall Hereticks. And there is another Booke of Pock<g ref="char:EOLhyphen"/>lingtons licenſed; they be as full of lyes, as doggs be full of fleas; but were the Preſſes as open to us, as they are to them, wee would pay them and their great Maſter that upholds them, and charge them with notorious Blaſphemy.</p>
+            <p>Sayd M<hi rend="sup">r</hi>. Prynne, You all at this preſent ſee,<note place="margin">M. Prynne</note> there be no degrees of men exempted from ſuffering: Here is a Reverend Divine for the Soule, a Phyſitian for the Body, and a Lawyer for the Eſtate: I had thought they would have let alone their owne Society, and not have medled with any of them. And the next (for ought I know) may be a Biſhop. You ſee they ſpare none of what ſociety or calling ſoever, none are exempted that croſſe their owne ends. Gentlemen, looke to your ſelves; If all the Martyrs that ſuffered in Queen Maries dayes, are accounted and called Schiſmaticall Here<g ref="char:EOLhyphen"/>ticks and Factious Fellowes: What ſhall wee looke for? Yet ſo they are called in a Booke lately come forth under Authority. And ſuch Factious Fellowes are wee, for diſcovering a Plott of Popery. Alas poore England, what will become of thee, if thou looke not the ſooner into thine owne Previledge, and maintaineſt not thine owne lawfull Liberty? Chriſtian people; I beſeech you all, ſtand firme, and be zealous for the Cauſe of God, and his true Religion, to the ſhedding of your deareſt blood, otherwiſe you will bring your ſelves, &amp; all your poſterities, into perpetuall bon<g ref="char:EOLhyphen"/>dage and ſlavery.</p>
+            <p>Now the Executioner being come, to ſeare him and cut off his eares, M<hi rend="sup">r</hi>. Prynne ſpake theſe words to him: Come friend, Come, burne mee, cut mee, I feare it not. I have learn'd to feare the fire of Hell, and not what man can doe unto mee: Come ſeare mee, ſeare mee, I ſhall beare in my body the markes of the Lord Ieſus: Which the bloody Executioner performed with ex<g ref="char:EOLhyphen"/>traordinary cruelty, heating his Iron twice to burne one Cheeke: And cut one of his eares ſo cloſe, that hee cut off a peice of his Cheeke. At which exquiſit torture hee never mooved with his body, or ſo much as changed his countenance,
+<pb n="22" facs="tcp:185117:12"/>but ſtill lookt up as well as he could towards heaven, with a ſmiling countenance, even to the aſtoniſhment of all the beholders. And uttering (aſſoone as the Executioner had done) this heavenly ſen<g ref="char:EOLhyphen"/>tence: <hi>The more I am beate downe, the more am I lift up.</hi> And re<g ref="char:EOLhyphen"/>turning from the execution in a boate made (as I heare) theſe two verſes by the way on the Two Characters branded on his Cheekes.</p>
+            <q>
+               <p>S.L. STIGMATA LAVDIS.</p>
+               <p>STIGMATA maxillis bajulans inſignia LAVDIS Exultans remeo, victama grata Deo.</p>
+            </q>
+            <p>
+               <hi>Which one ſince thus Engliſhed.</hi>
+            </p>
+            <q>
+               <p>S.L. LAVDS SCARS.</p>
+               <p>Triumphant I returne, my face deſcries, LAVDS ſcorching SCARS, Gods greatefull ſacrifice.</p>
+            </q>
+            <q>
+               <pb n="23" facs="tcp:185117:12"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>
+                           <hi>M<hi rend="sup">r</hi>. Burtons</hi> heavenly and moſt comfor<g ref="char:EOLhyphen"/>table Speech, which hee made at the time of his ſuffering, both before, and while hee ſtood in the Pillary, which was ſet ſomething diſtant from the other double Pillary, wherein <hi>D<hi rend="sup">r</hi>. Baſt<g ref="char:EOLhyphen"/>vvicke</hi> and <hi>M<hi rend="sup">r</hi>. Prynne</hi> ſtood.</head>
+                        <p>THE night before his ſuffering, about eight a clocke, when he firſt had certaine notice thereof, upon occaſion of his wives going to aſke the Warden, whither her huſ<g ref="char:EOLhyphen"/>band ſhould ſuffer the next day, immediately he felt his ſpirits to be rayſed to a farre higher pitch of reſolution and courage to undergoe his ſufferings, then formerly he did, ſo as hee intreated the Lord to hold up his ſpirits at that heigth all the next day in his ſufferings, that hee might not flagg nor faint, leaſt any diſhonour might come to his Majeſtie or the cauſe: And the Lord heard him: For all the next day in his ſuffering (both before and after) his ſpi<g ref="char:EOLhyphen"/>rits were carried aloft as it were upon Eagles wings (as himſelf ſayd) farre aboue all apprehenſion of ſhame or paine.</p>
+                        <p>The next morning (being the day of his ſufferings) hee was brought to Weſtminſter, and with much cheerefullnes being brought into the Pallace-yard unto a Chamber that looked into the Yard, where hee viewed three Pillaries there ſet up: Me thinkes (ſayd hee) I ſee Mount Calvery, where the three Croſſes (one for Chriſt, and the other two for the two theives) were pitched: And if Chriſt were numbred among theives, ſhall a Chriſtian (for Chriſts cauſe) thinke much to be numbred among Rogues, ſuch as wee are condemned to be? Surely if I be a Rogue, I am Chriſts Rogue, and no mans. And a little after, looking out at the caſe<g ref="char:EOLhyphen"/>ment towards the Pillary, hee ſayd: I ſee no difference betweene looking out of this ſquare window and yonder round hole, (poynt<g ref="char:EOLhyphen"/>ing towards the Pillary) hee ſayd: It is no matter, of difference to
+<pb n="24" facs="tcp:185117:13"/>an honeſt man. And a little after that, looking ſomewhat wiſely upon his wife, to ſee how ſhee did take it; ſhee ſeemed to him to be ſomething ſadd; to whom hee thus ſpake: Wife, why art thou ſo ſadd? To whom ſhee made anſwer; Sweet heart, I am not ſadd: No ſayd hee? See thou be not, for I would not have thee to diſho<g ref="char:EOLhyphen"/>nour the day, by ſhedding one teare, or fetching one ſigh: for be<g ref="char:EOLhyphen"/>hold there for thy comfort my triumphant Chariot, on the which I muſt ride for the honour of my Lord and Maſter: And never was my wedding day ſo wellcome, and joyfull a day, as this day is; and ſo much the more, becauſe I have ſuch a noble Captaine and Lea<g ref="char:EOLhyphen"/>der, who hath gonne before mee with ſuch undauntednes of ſpirit, that hee ſayth of himſelfe, I gave my backe to the ſmiters, my cheekes to the nippers, they pluckt off the haire, I hidd not my face, from ſhame and ſpitting, for the Lord God will help mee, therefore ſhall I not be confounded, therefore have I ſet my face like a flint, and I know I ſhall not be aſhamed. At length being carried toward the Pillary, hee mett D<hi rend="sup">r</hi>. Baſtwicke at the foot of the Pillary, where they lovingly ſaluted and eimbraced each other; and parting a little from him, hee returned (ſuch was the ardency of his affection) and moſt affectionately embraced him the ſecond time, being heartily ſorry hee miſſed M<hi rend="sup">r</hi>. Prynne, who was not yet come before hee was gonne up to his Pillary, which ſtood alone next the Starre-Chamber, and about halfe a ſtones caſt from the other double Pillary, wherein the other two ſtood: ſo as all their faces looked Southward, the bright Sunne all the while for the ſpace of two howers ſhining upon them: Being ready to be put into the Pillary, ſtanding upon the Scaffold, hee ſpied M<hi rend="sup">r</hi>. Prynne new come to the Pillary, and D<hi rend="sup">r</hi>. Baſtwicke in the Pillary, who then haſted of his band, and called for a Handkercher, ſaying, What, ſhall I be laſt? or ſhall I be aſhamed of a Pillary for Chriſt, who was not aſhamed of a Croſſe for mee? Then being put into the Pillary, hee ſayd: Good people, I am brought hither to be a ſpectacle to the world, to Angells, and men; And howſoever I ſtand here to undergoe the puniſhment of a Rogue, yet except to be a faithfull Servant to Chriſt, and a loyall Subject to the King, be the property of a Rogue, I am no Rogue. But yet if to be Chriſts faithfull Servant, and the Kings loyall Subject, deſerve the puniſhment of a Rogue, I glory
+<pb n="25" facs="tcp:185117:13"/>in it, and I bleſſe my God, my conſcience is cleare, and is not ſtained with the guilt of any ſuch crime, as I have beene charged with, though otherwiſe I confeſſe my ſelf to be a man ſubject to many frailties and humane infirmities. Indeed that Booke intiteled, An Apology of an Appeale with ſundry Epiſtles, and two Sermons, for God and the King, charged againſt me in the Information, I have and doe acknowledge (the miſprinting excepted) to be mine, and will by Gods grace never diſclayme it whilſt I have breath within mee. After a while, hee having a Noſegay in his hand, a Bee came and pitched on the Noſegay, and began to ſuck the flowers very ſavourly, which hee beholding and well obſerving, ſayd, Doe yee not ſee this poore Bee? She hath found out this very place to ſuck ſweetnes from theſe flowers; And cannot I ſuck ſweetnes in this ve<g ref="char:EOLhyphen"/>ry place from Chriſt? The Bee ſucking all this while, and ſo tooke her flight. By and by hee tooke occaſion from the ſhining of the Sunne, to ſay, You ſee how the Sunne ſhines upon us, but that ſhines aſwell upon the evill as the good, upon the juſt and unjuſt, but the Sonne of righteouſnes (Ieſus Chriſt, who hath healing un<g ref="char:EOLhyphen"/>der his winges) ſhines upon the ſoules and conſciences of every true beleever onely, and no clowd can hide him from us, to make him aſhamed of us, no not of our moſt ſhamefull ſufferings for his ſake: And why ſhould wee be aſhamed to ſuffer for his ſake, who hath ſuffered for us? All our ſufferings be but fleabitings to that hee endured, hee endured the Croſſe, and deſpiſed the ſhame, and is ſet on the right hand of God: Hee is a moſt excellent pat<g ref="char:EOLhyphen"/>terne for us to looke upon, that treading his ſtepps, and ſuffering with him, wee may be glorified with him. And what can we ſuffer, wherein hee hath not gonne before us, even in the ſame kinde? Was hee not degraded, when they ſcornefully put on him a purple Robe, a Reed into his hand, a thorny Crowne upon his head, ſalu<g ref="char:EOLhyphen"/>ting him with Hayle King of the Iewes, and ſo diſrobed him againe? Was not hee deprived, when they ſmote the Shepherd, and the Sheepe were ſcattered? Was not violence offered to his ſacred per<g ref="char:EOLhyphen"/>ſon, when hee was buffited, and ſcourged, his hands and his feet peirced, his head pricked with thornes, his ſide goared with a Speare &amp;c.? Was not the Croſſe more ſhamefull, yea and more painfull then a Pillary? Was not hee ſtript of all hee had, when hee
+<pb n="26" facs="tcp:185117:14"/>was left ſtarke naked upon the Croſſe, the Souldiers dividing his garments, and caſting lots upon his veſture? And was hee not con<g ref="char:EOLhyphen"/>fin'd to perpetuall cloſe impriſonment in mans imagination, when his body was layd in a Tombe, and the Tombe ſealed, leaſt hee ſhould breake priſon, or his Diſciples ſteale him away? And yet did hee not riſe againe, and thereby brought deliverance and victory to us all, ſo as wee are more then Conquerors through him that loved us? Here then wee have an excellent Patterne indeed. And all this hee uttered (and whatſoever elſe hee ſpake) with marvailous ala<g ref="char:EOLhyphen"/>crity.</p>
+                        <p>One ſayd unto M<hi rend="sup">r</hi>. Burton, Chriſt will not be aſhamed of you at the laſt day. Hee replied, Hee knew whom hee had believed, and that Chriſt was able to keepe that he had committed to him againſt that day. One aſked him how hee did? Hee ſayd, never better, I bleſſe God, who hath accounted mee worthy thus to ſuffer. The Keeper keeping off the people from preſſing neere the Pillary; hee ſayd, Let them come and ſpare not, that they may learne to ſuffer. This ſame Keeper, being weary, and ſitting him downe, aſked M<hi rend="sup">r</hi>. Burton, if hee were well, and bad him be of good comfort. To whom hee replied, Are you well? If you be well, I am much more, and full of comfort, I bleſſe God. Some aſked him, if the Pillary were not uneaſy for his neck and ſhoulders. Hee anſwered: How can Chriſts yoake be uneaſy? This is Chriſts yoake, and hee beares the heavier end of it, and I the lighter, and if myne were too heavy, hee would beare that too. O good people, Chriſt is a good and ſweet Maſter, and worth the ſuffering for! And if the world did but know his goodnes, and had taſted of his ſweetnes, all would come and be his Servants; and did they but know what a bleſſed thing it were to beare his yoake, O who would not beare it? The Keeper going about to eaſe the Pillary by putting a ſtone or a bricke batt betweene, M<hi rend="sup">r</hi>. Burton ſayd, Trouble not your ſelf, I am at very good eaſe, and feele no wearineſſe at all: And eſpying a young man at the foote of the Pillary, and perceiving him to looke pale on him; Hee ſayd, Sonne, Sonne, what is the matter you looke ſo pale? I have as much comfort as my heart can hold, and if I had need of more, I ſhould have it. One aſked him a while after, if hee would drinke ſome <hi>Aqua vitae.</hi> To whom he replied, that he needed it not; for I
+<pb n="27" facs="tcp:185117:14"/>have, ſayd hee, (laying his hand upon his breaſt) the true water of life, which like a well doth ſpring up to eternall life. Pawſing a while, hee ſayd with a moſt cheerefull and grave countenance, I was never in ſuch a Pulpit before, but litle doe yee know (ſpeaking to them that ſtood about him) what fruits God is able to produce from this drye tree; They looking ſtedfaſtly upon him, hee ſayd, Marke my words and remember them well, I ſay, Little doe you know, what fruites God is able to produce from this dry tree, I ſay, remember it well, for this day will never be forgotten; and through theſe holes (poynting to the Pillary) God can bring light to his Church. The Keeper going about againe to mend the Pillary, hee ſayd, Doe not trouble your ſelf ſo much: But indeed wee are the troublers of the world. By and by after, ſome of them offering him a cup of wine; Hee thanked them, telling them, hee had the wine of conſo<g ref="char:EOLhyphen"/>lation within him, and the joyes of Chriſt in poſſeſſion, which the world could not take away from him, neither could it give them vn<g ref="char:EOLhyphen"/>to him. Then he looked towards the other Pillary, and making a ſigne with his hand, cheerefully called to D<hi rend="sup">r</hi>. Baſtwicke, and M<hi rend="sup">r</hi>. Prynne, aſking them how they did. Who anſwered, Very well. A woman ſayd unto him, S<hi rend="sup">r</hi>. every Chriſtian is not worthy this ho<g ref="char:EOLhyphen"/>nor, which the Lord hath caſt upon you this day. Alas (ſayd hee) who is worthy of the leaſt mercy? But it is his gracious favour and free gift, to account us worthy in the behalf of Chriſt to ſuffer any thing for his ſake? Another woman ſayd, There are many hun<g ref="char:EOLhyphen"/>dreds which by Gods aſſiſtance would willingly ſuffer, for the cauſe you ſuffer for this day. To whom he ſayd, Chriſt exalts all of us that are ready to ſuffer afflictions for his Name with meekenes and pa<g ref="char:EOLhyphen"/>tience: But Chriſts military diſcipline in the uſe of his ſpirituall war<g ref="char:EOLhyphen"/>fare in point of ſuffering, is quite forgotten, and wee have in a man<g ref="char:EOLhyphen"/>ner loſt the power of Religion, in not denying our ſelves and fol<g ref="char:EOLhyphen"/>lowing Chriſt aſwell in ſuffering, as in doing. After a while M<hi rend="sup">r</hi>. Burton calling to one of his friends for a Handkercher, returned it againe, ſaying it is hott, but Chriſt bore the burthen in the heate of the day; Let us alwayes labour to approove our ſelves to God in all things, and unto Chriſt, for therein ſtands our happines, come of it what will in this world.</p>
+                        <pb n="28" facs="tcp:185117:15"/>
+                        <p>A Chriſtian freind ſayd to M<hi rend="sup">r</hi>. Burton, The Lord ſtrengthen you. To whom hee replied, I thanke you, and I bleſſe his Name hee doth ſtrengthen me. For though I am a poore ſinfull wretch, yet I bleſſe God for my innocent conſcience in any ſuch crime as is layd againſt mee; and were not my cauſe good, and my con<g ref="char:EOLhyphen"/>ſcience ſound, I could not enjoy ſo much unſpeakeable comfort in this my ſuffering as I doe, I bleſſe my God. M<hi rend="sup">ris</hi>. Burton ſends com<g ref="char:EOLhyphen"/>mendation to him by a friend: Hee returned the like to her, ſaying, Commend my love to my wife, and tell her, I am heartely cheere<g ref="char:EOLhyphen"/>full, and bidd her remember what I ſayd to her in the morning, na<g ref="char:EOLhyphen"/>mely, That ſhee ſhould not blemiſh the glory of this day with one teare, or ſo much as one ſigh. She returned anſwer, that ſhee was glad to heare him ſo cheerefull; and that ſhee was more cheerefull of this day, then of her wedding day. This anſwer exceedingly re<g ref="char:EOLhyphen"/>joyced his heart, who thereupon bleſſed God for her, and ſayd of her, Shee is but a young Souldier of Chriſts, but ſhee hath already endured many a ſharpe brunt, but the Lord will ſtrengthen her un<g ref="char:EOLhyphen"/>to the end: And hee having on a payre of new gloves, ſhewed them to his freinds there about him, ſaying, My wife yeſterday of her owne accord bought me theſe wedding gloves, for this is my wedding day.</p>
+                        <p>Many freinds ſpake comfortably to M<hi rend="sup">r</hi>. Burton, and hee againe ſpake as comfortably to them, ſaying, I bleſſe my God that called me forth to ſuffer this day. One ſayd to him, S<hi rend="sup">r</hi>. by this Sermon (your ſuffering) God may convert many unto him. Hee anſwered, God is able to doe it indeed. And then hee called againe to D<hi rend="sup">r</hi>. Baſt<g ref="char:EOLhyphen"/>wicke and M<hi rend="sup">r</hi>. Prynne, aſking them how they did. Who anſwered as before. Some ſpeaking to him concerning that ſuffering of ſhed<g ref="char:EOLhyphen"/>ding his blood: Hee anſwered, What is my blood to Chriſts blood? Chriſts blood is a purging blood, but mine is corrupted &amp; polluted with ſinne. One freind aſking another ſtanding neere M<hi rend="sup">r</hi>. Burton, If there ſhould be any thing more done unto him; M<hi rend="sup">r</hi>. Burton over<g ref="char:EOLhyphen"/>hearing him, anſwered; Why ſhould there not be more done? For what God will have done, muſt be accompliſhed. One deſiring M<hi rend="sup">r</hi>. Burton to be of good cheere. To whom hee thus replied: If you knew my cheere, you would be glad to be partaker with mee; for I am not alone; neither hath God left me alone in all my ſuffe<g ref="char:EOLhyphen"/>rings
+<pb n="29" facs="tcp:185117:15"/>and cloſe impriſonment ſince firſt I was apprehended. The Halbertmen ſtanding round about, one of them had an old ruſty halbert, the Iron whereof was tacked to the ſtaffe with an old crooked nayle; which one obſerving, and ſaying, What an old ruſty halbert is that? M<hi rend="sup">r</hi>. Burton ſayd, This ſeemes to mee to be one of thoſe Halberts, which accompained Iudas when hee went to betray and apprehend his Maſter. The people obſerving M<hi rend="sup">r</hi>. Burtons cheerefullnes and courage in ſuffering, rejoyced, and bleſſed God for the ſame. M<hi rend="sup">r</hi>. Burton ſayd againe, I am perſwaded that Chriſt my Advocate, is now pleading my cauſe at the Fathers right hand, and will judge my cauſe (though none be found here to plead it) and will bring forth my righteouſnes as the light at noone day, and cleere my innocency in due time. A freind aſking M<hi rend="sup">r</hi>. Burton, if he would have beene without this particular ſuffering. To whom hee ſayd, No not for a world. Moreover hee ſayd, that his conſcience in the diſcharge of his Miniſteriall duety and function, in admoniſhing his people to beware of the creeping in of Popery and Superſti<g ref="char:EOLhyphen"/>tion, exhorting them to ſtick cloſe unto God &amp; the King in dueties of obedience, was that which firſt occaſioned his ſufferings, and ſayd, as for this truth I have preached, I am ready to ſeale it with my blood, for this is my Crowne both here and hereafter. I am jealous of Gods honour, and the Lord keepe us that wee may doe nothing that may diſhonour him, either in doing or ſuffering, God can bring light out of darkenes, and glory out of ſhame: And what ſhall I ſay more? I am like a Bottle which is ſo full of liquor, that it cannot runn out freely; So I am ſo full of joy, that I am not able to expreſſe it.</p>
+                        <p>In concluſion, ſome told him of the approach of the Executio<g ref="char:EOLhyphen"/>ner, and prayed God to ſtrengthen him. Hee ſayd, I truſt he will, why ſhould I feare to follow my Maſter Chriſt, who ſayd, I gave my backe to the ſmitters, and my cheekes to the nippers, that pluc<g ref="char:EOLhyphen"/>ked off my haire, I hidd not my face from ſhame and ſpitting, for the Lord God will help mee, therefore ſhall I not be confounded, therefore have I ſet my face like a flint, and I know that I ſhall not be aſhamed.</p>
+                        <pb n="30" facs="tcp:185117:16"/>
+                        <p>When the Executioner had cut off one eare, which hee had cut deepe and cloſe to the head in an extraordinary cruell manner: Yet this Champion of Chriſt never once mooved or ſtirred for it, though hee had cut the veyne, ſo as the blood rann ſtreaing downe upon the Scaffold, which divers perſons ſtanding about the Pillary ſeeing, dipped their handkerchers in, as a thing moſt precious, the people giving a mournefull ſhout; and crying for the Chirurgion, whom the crowd and other impediments for a time kept off, ſo that hee could not come to ſtopp the blood: This Patient all the while held up his hands, and ſayd, Be content, it is well, bleſſed be God. The other eare being cut no leſſe deepe, hee then was freed from the Pillary, and come downe, where the Chirurgeon waiting for him; preſently applyed remedy for ſtopping the blood after a large effuſion thereof, yet for all this hee faynted not, in the leaſt man<g ref="char:EOLhyphen"/>ner, though through expenſe of much blood hee waxed pale. And one offering him a little wormewood water; hee ſayd, it needs not, yet through importunity hee onely taſted of it, and no more, ſaying, his Maſter Chriſt was not ſo well uſed, for they gave him gall and viniger, but you give me good ſtrong water to refreſh me, bleſſed be God. His head being bound up, two Freinds ledd him away to an houſe provided for him in Kings Street, where being ſet downe, and bidd to ſpeake little, yet hee ſayd after a pawſe, This is too hott to hold long: Now leaſt they in the roome, or his wife ſhould mis-take, and thinke hee ſpake of himſelf concerning his paine, hee ſayd, I ſpeake not this of my ſelf: for that which I have ſuffered is nothing to that my Saviour ſuffered for mee, who had his hands and feete nayled to the Croſſe: And lying ſtill a while, hee tooke M<hi rend="sup">r</hi>. Prynnes ſufferings much to heart, and aſked the people how hee did, for (ſayd hee) his ſufferings have beene great. Hee aſ<g ref="char:EOLhyphen"/>ked alſo how D<hi rend="sup">r</hi>. Baſtwicke did, with much compaſſion and grief, that hee (being the firſt that was executed) could not ſtay to ſee how they two fayred after him. His wife being brought to him, be<g ref="char:EOLhyphen"/>haved herſelf graciouſly towards him, ſaying, Wellcome Sweet heart, wellcome home. Hee was often heard to repeate theſe words: The Lord keepe vs that wee doe not diſhonour him in any thing.</p>
+                        <closer>AMEN.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:185117:16"/>
+            <p>TH<g ref="char:V">Ʋ</g>S Christian Readers, you have heard the Relation of ſuch a Cenſure (and the Execution thereof) as I dare ſay, all circumſtances layd together, cannot be paralled in any age of man throughout the Chriſtian world, and I thinke I may take in even the world of Pagans and Haethens to it. Which though it be not drawen up in ſo elegant aſtraine as it was delivered and deſerved, nor all the Heavenly words and eloquent ſpeeches recorded, which were uttered by theſe Three Worthies of the Lord, both in the pre<g ref="char:EOLhyphen"/>ſence of the Lords themſelves at their Cenſure, and alſo at the place of Execution: Yet I earneſtly beſeech you in the bowels of Ieſus Chriſt, that you doe not in the leaſt manner under-value the glory and dignity, either of the perſons, or the cauſe, but rather lay the blame upon the rudenes and meane capacity of the Compoſer, who is an unfeyned Well-wiſher to them both.</p>
+            <pb facs="tcp:185117:17"/>
+            <pb facs="tcp:185117:17" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
